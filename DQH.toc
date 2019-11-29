@@ -1,0 +1,8 @@
+## Interface: 11302
+
+## Title: Dungeon Quest Announcer
+## Notes: Tells you when you can start doing dungeons ! By Nisho100
+## Author: Nisho100
+## Version: Version:0.0.6b
+DQH.lua
+

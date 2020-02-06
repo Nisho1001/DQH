@@ -13,7 +13,7 @@ UIConfig:SetMovable(true);
 UIConfig:EnableMouse(true);
 UIConfig:RegisterForDrag("LeftButton");
 UIConfig:SetScript("OnDragStart", UIConfig.StartMoving);
-UIConfig:SetScript("OnDragStop", UIConfig .StopMovingOrSizing);
+UIConfig:SetScript("OnDragStop", UIConfig.StopMovingOrSizing);
 
 
     --- dropdown widget ---
